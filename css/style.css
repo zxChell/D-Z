@@ -191,3 +191,96 @@ flex-shrink: 0;
 display: flex;
 }
 
+.Only{
+    display: flex;
+padding: 95.373px 375.536px 95.373px 370px;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+}
+
+.Frame8{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 34px;
+}
+
+.Frame{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+}
+
+.TeeXt{
+    color: var(--primaty-black, #000);
+font-family: Dela Gothic One;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 100%; 
+letter-spacing: -1.92px;
+}
+
+.Teeext{
+    color: var(--primaty-grey-dark, #757575);
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; 
+letter-spacing: -0.72px;
+}
+
+.cl{
+    display: flex;
+padding: 14px 22px;
+justify-content: center;
+align-items: center;
+gap: 19px;
+border-radius: 100px;
+background: var(--primaty-cyan-light, #C3DCE3);
+}
+
+.georgii{
+    display: flex;
+height: 104px;
+padding: 52px 57.048px 38px 104.952px;
+justify-content: flex-end;
+align-items: center;
+align-self: stretch;
+}
+
+.yegor{
+    display: flex;
+height: 104px;
+padding: 52px 57.048px 38px 104.952px;
+justify-content: flex-end;
+align-items: center;
+align-self: stretch;
+}
+
+.rer{
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+}
+
+.textt{
+    display: flex;
+align-items: flex-start;
+gap: 30px;
+}
+
+.zxczxc{
+    color: var(--primaty-grey-dark, #757575);
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%;
+}
